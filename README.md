@@ -1,2 +1,2 @@
 # Downloader
-Download Video or PDF's
+Download Video or PDF
